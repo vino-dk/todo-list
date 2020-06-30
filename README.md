@@ -1,6 +1,6 @@
-# Todo app
+# Todo app for learning overall structure of SPA with ReactJS
 
-This app was created using a tutorial provided by Traverse Media: <https://www.youtube.com/watch?v=sBws8MSXN7A>
+This app was built based on a tutorial: <https://www.youtube.com/watch?v=sBws8MSXN7A>
 
 The tutorial provides a better overall context between components and overall structure of an React App, which has proved very useful in the understanding of the concepts. 
 
